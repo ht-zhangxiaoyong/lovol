@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/ht-zhangxiaoyong/lovol/blob/master/zhihuiwuliu211.ipa</string>
+                        <string>https://raw.githubusercontent.com/ht-zhangxiaoyong/lovol/master/zhihuiwuliu211.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
@@ -22,7 +22,7 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>zhihuiwuliu</string>
+                    <string>智慧物流</string>
                 </dict>
             </dict>
         </array>
